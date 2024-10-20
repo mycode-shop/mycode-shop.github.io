@@ -153,6 +153,10 @@ nav a {
     .burger {
         display: flex;
     }
+
+    .section-1 {
+        height: 50vh;
+    }
 }
 
 .section-1 {
